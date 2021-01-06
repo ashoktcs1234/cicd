@@ -38,6 +38,8 @@
 		            <password>9441325494@aA</password>
 		            <applicationName>sample123</applicationName>
 		            <environment>Sandbox</environment>
+		            <workerType>Micro</workerType>
+		            <workers>1</workers>
 		            <properties>
 		                <key>value</key>
 		            </properties>
